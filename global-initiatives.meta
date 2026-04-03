@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/global-initiatives/layout,_N_T_/global-initiatives/page,_N_T_/global-initiatives/"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/global-initiatives/__PAGE__",
+    "/global-initiatives",
+    "/_index",
+    "/_head"
+  ]
+}

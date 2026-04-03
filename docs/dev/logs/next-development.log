@@ -1,0 +1,170 @@
+[02:28:30.136] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/home/z/my-project/docs/dev/server/app/_not-found/page/build-manifest.json'
+[02:28:30.160] Server  ERROR   TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
+[02:28:30.164] Server  ERROR   ⨯ TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
+[02:28:30.166] Server  ERROR   TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
+[03:25:05.300] Server  ERROR   ⨯ Error: ENOENT: no such file or directory, open '/home/z/my-project/docs/dev/server/app/_not-found/page/build-manifest.json'
+[03:25:05.303] Server  ERROR   TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
+[03:25:05.305] Server  ERROR   ⨯ TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
+[03:25:05.307] Server  ERROR   TurbopackInternalError: Failed to write page endpoint /_app
+
+Caused by:
+- content is not available as task execution failed
+- content is not available as task execution failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+
+Debug info:
+- Execution of get_written_endpoint_with_issues_operation failed
+- Execution of endpoint_write_to_disk failed
+- Execution of <PageEndpoint as Endpoint>::output failed
+- Failed to write page endpoint /_app
+- Execution of PageEndpoint::output failed
+- Execution of *ChunkGroupResult::all_assets failed
+- Execution of PageEndpoint::client_chunk_group failed
+- Execution of PageEndpoint::client_evaluatable_assets failed
+- content is not available as task execution failed
+- Execution of PageEndpoint::client_module failed
+- content is not available as task execution failed
+- Execution of *create_page_loader_entry_module failed
+- Execution of PagesProject::client_module_context failed
+- Failed to restore task data (corrupted database or bug): Meta for PagesProject::client_module_options_context (TaskId 79228))
+  
+  Caused by:
+      0: Looking up data for TaskId 79228 from database failed
+      1: Unable to open static sorted file referenced from 00000028.meta
+      2: Unable to open static sorted file 00000024.sst
+      3: No such file or directory (os error 2)
